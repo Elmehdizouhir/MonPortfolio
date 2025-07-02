@@ -1,6 +1,6 @@
 import React from 'react';
 import { ChevronDown, Github, Linkedin, Mail } from 'lucide-react';
-
+import img1 from '../../src/assets/MEHDI.jpg';
 const Hero = () => {
   const scrollToAbout = () => {
     const element = document.getElementById('about');
@@ -26,7 +26,7 @@ const Hero = () => {
             }}
           >
             <img
-              src="../../src/assets/MEHDI.jpg"
+              src={img1}
               alt="Photo de profil - Développeur Web"
               className="w-100 h-100 object-fit-cover"
               style={{ objectFit: 'cover' }}
