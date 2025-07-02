@@ -1,0 +1,31 @@
+
+{
+  "personalInfo": {
+    "title": "Mon histoire",
+    "description1": "Je m'appelle Elmehdi Zouhir, développeur web full stack passionné par la création de sites modernes et responsives.Je combine créativité et compétences techniques pour concevoir des expériences utilisateur intuitives et adaptées à tous les écrans.Je suis motivé par apprentissage constant des nouvelles technologies et par la livraison de projets de qualité qui aident les entreprises et les particuliers à se démarquer en ligne.",
+
+    "technologies": ["React", "TypeScript", "ASP.NET Core", "Tailwind CSS", "SqlServer"]
+  },
+  "stats": [
+    {
+      "icon": "Code",
+      "label": "Projets realises",
+      "value": "10+"
+    },
+    {
+      "icon": "Coffee",
+      "label": "Tasses de café",
+      "value": "1000+"
+    },
+    {
+      "icon": "Users",
+      "label": "Clients satisfaits",
+      "value": "25+"
+    },
+    {
+      "icon": "Award",
+      "label": " d'expérience",
+      "value": "1"
+    }
+  ]
+}

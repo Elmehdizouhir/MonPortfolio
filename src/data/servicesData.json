@@ -1,0 +1,36 @@
+
+{
+  "services": [
+    {
+      "icon": "Monitor",
+      "title": "Développement Web",
+      "description": "Création de sites web modernes et responsive avec les dernières technologies.",
+      "features": ["Sites vitrine", "Applications web", "E-commerce", "Optimisation"]
+    }
+    ,
+    {
+      "icon": "Search",
+      "title": "SEO & Performance",
+      "description": "Optimisation pour les moteurs de recherche et amélioration des performances.",
+      "features": ["Référencement", "Vitesse", "Analytics", "Core Web Vitals"]
+    },
+    {
+      "icon": "Palette",
+      "title": "UI/UX Design",
+      "description": "Création d'interfaces utilisateur intuitives et attrayantes.",
+      "features": ["Design System", "Prototypage", "Wireframes", "User Testing"]
+    },
+    {
+      "icon": "Code",
+      "title": "API & Backend",
+      "description": "Développement d'APIs robustes et d'architectures backend scalables.",
+      "features": ["REST API",  "Base de données", "Cloud"]
+    },
+    {
+      "icon": "Zap",
+      "title": "Consultation",
+      "description": "Conseil technique et accompagnement dans vos projets digitaux.",
+      "features": ["Audit technique", "Architecture", "Formation", "Stratégie"]
+    }
+  ]
+}

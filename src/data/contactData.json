@@ -1,0 +1,23 @@
+
+{
+  "contactInfo": [
+    {
+      "icon": "Mail",
+      "title": "Email",
+      "value": "zouhairmahdi123@gmail.com",
+      "link": "mailto:zouhairmahdi123@gmail.com"
+    },
+    {
+      "icon": "Phone",
+      "title": "Téléphone",
+      "value": "+212 6 89 66 91 78",
+      "link": "tel:+212689669178"
+    },
+    {
+      "icon": "MapPin",
+      "title": "Localisation",
+      "value": "Maroc, Casablanca",
+      "link": "https://maps.app.goo.gl/iEmvHMihTf4nQgZcA"
+    }
+  ]
+}
