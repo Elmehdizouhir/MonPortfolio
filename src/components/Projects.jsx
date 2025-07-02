@@ -2,12 +2,23 @@ import React, { useState, useEffect } from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 import projectsData from '../data/projectsData.json';
 
+// 🔽 Import des images
+import img1 from '../assets/chickandclick.avif';
+import img2 from '../assets/mcdbackground.jpg';
+import img3 from '../assets/backCoffe.jpeg';
+import img4 from '../assets/signup-bg.jpg';
+import img5 from '../assets/about-1.jpg';
+import img6 from '../assets/login.jpeg';
+import img7 from '../assets/FinShark.png';
+
 const Projects = () => {
   const [projects, setProjects] = useState([]);
 
   useEffect(() => {
     setProjects(projectsData.projects);
   }, []);
+
+  const images = [img1, img2, img3, img4, img5, img6, img7];
 
   return (
     <section id="projects" className="py-5 px-3">
@@ -25,7 +36,7 @@ const Projects = () => {
               <div className="card border shadow-sm h-100 position-relative overflow-hidden">
                 <div className="position-relative">
                   <img
-                    src={project.image}
+                    src={images[index]}
                     alt={project.title}
                     className="card-img-top"
                     style={{ height: '12rem', objectFit: 'cover' }}
@@ -82,7 +93,6 @@ const Projects = () => {
 
       </div>
 
-      {/* CSS pour l'effet overlay au hover */}
       <style>{`
         .card:hover .overlay {
           opacity: 1 !important;

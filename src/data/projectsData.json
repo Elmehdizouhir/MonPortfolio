@@ -1,10 +1,8 @@
-
 {
   "projects": [
     {
       "title": "E-Commerce Platform",
       "description": "Une plateforme e-commerce complète avec panier, paiement et gestion des commandes.",
-      "image": "../src/assets/chickandclick.avif",
       "technologies": ["React"],
       "liveUrl": "#",
       "githubUrl": "https://github.com/Elmehdizouhir/chic-click.git"
@@ -12,52 +10,42 @@
     {
       "title": "Macdonalds",
       "description": "Responsive e-commerce website programer with html and css.",
-      "image": "../src/assets/mcdbackground.jpg",
-      "technologies": ["HTML", "Bootstrap "],
+      "technologies": ["HTML", "Bootstrap"],
       "liveUrl": "https://elmehdizouhir.github.io/Macdonalds",
       "githubUrl": "https://github.com/Elmehdizouhir/Macdonalds.git"
     },
     {
       "title": "Coffee Shop",
       "description": "une leading page d'une restaurant de coffe.",
-      "image": "../src/assets/backCoffe.jpeg",
       "technologies": ["React", "CSS"],
       "liveUrl": "#",
       "githubUrl": "https://gitlab.com/fist_tp/chic-click-v3.git"
-    }
-    ,
-     {
+    },
+    {
       "title": "mediplus",
-      "description": "Mediplus est un site vitrine médical responsive conçu avec HTML, CSS, Bootstrap et JavaScript. Il présente une interface professionnelle pour les cliniques ou cabinets médicaux, incluant des sections pour les services, les médecins, les témoignages, et un formulaire de contact.",
-      "image": "../src/assets/signup-bg.jpg",
-      "technologies": ["Html", "CSS","Bootstrap ","JavaScript"],
+      "description": "Mediplus est un site vitrine médical responsive conçu avec HTML, CSS, Bootstrap et JavaScript.",
+      "technologies": ["Html", "CSS", "Bootstrap", "JavaScript"],
       "liveUrl": "https://elmehdizouhir.github.io/Mediplus/",
       "githubUrl": "https://github.com/Elmehdizouhir/Mediplus.git"
-    }
-    , 
+    },
     {
       "title": "Restaurant",
-      "description": "Bienvenue dans notre univers culinaire ! Découvrez un restaurant élégant, un menu savoureux et une expérience inoubliable dans un cadre raffiné.",
-      "image": "../src/assets/about-1.jpg",
-      "technologies": ["Html", "CSS","Bootstrap ","JavaScript"],
+      "description": "Bienvenue dans notre univers culinaire ! Découvrez un restaurant élégant, un menu savoureux et une expérience inoubliable.",
+      "technologies": ["Html", "CSS", "Bootstrap", "JavaScript"],
       "liveUrl": "https://elmehdizouhir.github.io/Restaurant/",
       "githubUrl": "https://github.com/Elmehdizouhir/Restaurant.git"
-    }
-    , 
+    },
     {
       "title": "3rssiB-Click",
-      "description": "3rssiB-Click est une plateforme moderne qui simplifie l'organisation des mariages au Maroc. Gérez vos prestataires, planifiez vos événements, communiquez facilement avec les partenaires et vivez une expérience digitale complète et intuitive.",
-      "image": "../src/assets/login.jpeg",
-      "technologies": ["Html", "CSS","React","JavaScript","Asp .Net Core","Sql Server"],
+      "description": "3rssiB-Click est une plateforme moderne qui simplifie l'organisation des mariages au Maroc.",
+      "technologies": ["Html", "CSS", "React", "JavaScript", "Asp .Net Core", "Sql Server"],
       "liveUrl": "#",
       "githubUrl": "https://github.com/Elmehdizouhir/gestionMariage.git"
-    }
-     , 
+    },
     {
       "title": "FinShark",
-      "description": "FinShark est une application de gestion financière intuitive permettant aux utilisateurs de suivre leurs revenus, dépenses et investissements. Conçue avec React et ASP.NET Core, elle offre une interface moderne et des données sécurisées en temps réel.",
-      "image": "../src/assets/FinShark.png",
-      "technologies": ["CSS","React","Asp .Net Core","Sql Server"],
+      "description": "FinShark est une application de gestion financière intuitive.",
+      "technologies": ["CSS", "React", "Asp .Net Core", "Sql Server"],
       "liveUrl": "#",
       "githubUrl": "https://github.com/Elmehdizouhir/finShark.git"
     }
